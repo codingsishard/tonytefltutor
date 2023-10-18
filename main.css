@@ -1,0 +1,171 @@
+
+/***************************************
+****************BODY BOX***************/
+
+
+body {
+  
+      background-color: #B4A3D6;
+  
+      }
+
+
+/**************************************
+**************HEADER BOX***************/
+
+
+
+.Header{
+  
+       
+       color : #EFE400;
+       font-size: 30px;
+       position : relative;
+       top : 20px;
+       right: 5px;
+  left:100px;
+  
+  
+  
+  
+       }
+
+
+/************************************/
+
+
+
+div.MyPicture {
+  position: absolute;
+  width:80px;
+  height :80px;
+  top:10px;
+  left: 1px;
+  border: 3px solid #73AD21
+
+}
+
+
+/***************************************
+***************DIV BOX*****************/
+
+
+
+
+
+
+.div-1 {
+          background-color: #9ABDD0; 
+           height: 250px;
+           width: 500px;
+  
+           position : relative;
+           top:00px;
+           right : 5px;
+  
+           font - size:20px;
+           color :#9A1247;
+           
+  
+  
+        }
+
+/**************************************/
+   
+.div-2 {
+  
+  
+         background-color: #9ABDff; 
+         height: 200px;
+         width: 500px;
+  
+         position : relative;
+         top : 20px;
+         right: 5px;
+  
+          
+         font - size:20px;
+         color :#9A1247;
+  
+        }
+
+/**************************************/
+   
+.div-3 {
+  
+  
+        background-color: #9Addff;
+        height: 150px;
+        width: 500px;
+  
+        position : relative;
+        top : 40px;
+        right: 5px;
+  
+         font - size:20px;
+         color : #ff000099;
+  
+}
+  
+
+
+
+/*****************************
+*********div-4****************/
+
+
+
+ .div-4{
+   
+      
+   
+        background-color: #9Addff;
+        height: 100px;
+        width: 500px;
+   
+   
+        position : relative;
+        top : 60px;
+        right: 5px;
+   
+         color:#673AB7;
+   
+   
+   
+   
+      }
+
+
+
+
+
+.video {
+  margin: 0;
+  width: 100%;
+  height: 0;
+  top:100px;
+  padding-top: 56.25%;
+  background-color: #ccc;
+  position: relative;
+}
+.video iframe {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+/***************************************/
+
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+
